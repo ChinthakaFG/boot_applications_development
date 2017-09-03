@@ -1,0 +1,8 @@
+[06/Jul/2017:16:12:06 +0530] 127.0.0.1 "GET /spring-boot-app-security/login HTTP/1.1" 200 (1254 ms)
+[06/Jul/2017:16:12:06 +0530] 127.0.0.1 "GET /spring-boot-app-security/0 HTTP/1.1" 302 (10 ms)
+[06/Jul/2017:16:12:07 +0530] 127.0.0.1 "GET /spring-boot-app-security/login HTTP/1.1" 200 (9 ms)
+[06/Jul/2017:16:12:16 +0530] 127.0.0.1 "POST /spring-boot-app-security/login HTTP/1.1" 302 (130 ms)
+[06/Jul/2017:16:12:16 +0530] 127.0.0.1 "GET /spring-boot-app-security/login?error=true HTTP/1.1" 302 (5 ms)
+[06/Jul/2017:16:12:16 +0530] 127.0.0.1 "GET /spring-boot-app-security/login HTTP/1.1" 200 (11 ms)
+[06/Jul/2017:16:12:16 +0530] 127.0.0.1 "GET /spring-boot-app-security/0 HTTP/1.1" 302 (6 ms)
+[06/Jul/2017:16:12:17 +0530] 127.0.0.1 "GET /spring-boot-app-security/login HTTP/1.1" 200 (8 ms)
